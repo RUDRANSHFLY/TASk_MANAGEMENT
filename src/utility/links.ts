@@ -1,0 +1,1 @@
+export const backgroundImage : string = "https://img.freepik.com/premium-vector/white-background-gradient-abstract-design-modern_343694-3049.jpg";
